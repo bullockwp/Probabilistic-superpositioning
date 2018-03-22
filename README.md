@@ -11,4 +11,4 @@ Conclusion:
 Good reulsts with truncated proteins but fails with full-length chains -> could benefit from more time in deveolping informative priors, strong proof of concept.  
 
 Implicaitons:  
-Prof. Thomas Wim Hamelryck has taken custody of the project and is developing it further as PhD opportuinity.
+Prof. Thomas Wim Hamelryck (University of Copenhagen) has taken custody of the project and is developing it further as PhD opportuinity.
