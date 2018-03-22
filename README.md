@@ -4,8 +4,8 @@
 - 8 week project timeframe.  
 - 3 models exist:  
 	-'Fixed mean' - proof of concept with toydata and a known solution.  
-	-'1ENH' - Known solution but this time with real protein data.  
-	-'1IRH' - Unknown solution and real protein data.  
+	-'1ENH' -  Real protein data as a probabilistic mean structure.  
+	-'1IRH' - Two similar but different real proteins with an unknown superposition.  
   
 Conclusion:  
 Good reulsts with truncated proteins but fails with full-length chains -> could benefit from more time in deveolping informative priors, strong proof of concept.  
