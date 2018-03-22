@@ -1,4 +1,4 @@
-# Probibalistic programming for protein super-positioning.
+# Probabilistic programming for protein super-positioning.
 
 – PyMC3 (Theano) implementations of Bayesian inference models for protein structural alignment. Uses MAP optimization to find the mean structure which is established as an unknown prior.  
 - 8 week project timeframe.  
